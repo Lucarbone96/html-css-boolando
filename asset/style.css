@@ -46,3 +46,15 @@
     right: 30%;
     color: black;
 }
+
+h4{
+    color: darkslategray;
+}
+
+.p-red{
+    color: red;
+}
+
+.p-canc{
+    text-decoration: line-through;
+}
