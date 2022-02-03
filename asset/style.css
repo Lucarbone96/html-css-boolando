@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.icona{
+    border: 2px solid red;
+    display: inline-block;
+    position: relative;
+}
+
+.sconto{
+    background-color: red;
+    color: silver;
+    position: absolute;
+    padding: 3px;
+    left: 0;
+    top: 90%;
+}
+
+.bg-green{
+    background-color: darkgreen;
+    color: silver;
+    position: absolute;
+    padding: 3px;
+    left: 6%;
+    top: 90%;
+}
+
+.q-cuore{
+    height: 50px;
+    width: 50px;
+    
+    position: absolute;
+    right: 0;
+    display: inline;
+    top: 10%;
+    background-color: white;
+}
+
+.cuore{
+    position: absolute;
+    display: inline;
+    top: 30%;
+    right: 30%;
+    color: black;
+}
