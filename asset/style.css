@@ -58,3 +58,19 @@ h4{
 .p-canc{
     text-decoration: line-through;
 }
+
+.fissa{
+    display: block;
+}
+
+.effetto{
+    display: none;
+}
+
+.contenitoreimg:hover .fissa{
+    display: none;
+}
+
+.contenitoreimg:hover .effetto{
+    display: block;
+}
