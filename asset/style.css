@@ -5,7 +5,7 @@
 }
 
 .icona{
-    border: 2px solid red;
+    
     display: inline-block;
     position: relative;
     width: 305px;
@@ -78,9 +78,9 @@ h4{
     display: block;
 }
 
-
-html{
-    display: inline-block;
+body{
+    width: 80%;
+    margin: auto;
 }
 
 
